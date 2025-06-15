@@ -6,3 +6,5 @@ retirements, and involuntary terminations. HR needs to analyze key factors affec
 retention and workforce stability. By understanding trends in employee tenure, termination
 reasons, performance ratings, and pay zones, HR can develop strategies to improve retention,
 optimize staffing, and enhance employee satisfaction.
+--
+![Alt text] (11.avif)

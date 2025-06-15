@@ -7,4 +7,4 @@ retention and workforce stability. By understanding trends in employee tenure, t
 reasons, performance ratings, and pay zones, HR can develop strategies to improve retention,
 optimize staffing, and enhance employee satisfaction.
 --
-![Alt text](dax functions.png)
+![Alt text](dax-functions.png)
